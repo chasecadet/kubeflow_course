@@ -6,3 +6,7 @@ The containers are all hosted in Dockerhub, but we provide the docker files and 
 
 ## Issue with Code
 If you run into issues with code and examples please either submit an issue to the repo directly or make a comment on the forums. We are more than 
+## Walkthrough videos 
+Each example has a walkthrough video as part of the course. If you are stuck a good first step is to check out the walkthrough video that applies to the example you are working through. 
+## Containers, Components, and Security.
+The containers we built are for education and testing purposes only. We highly discourage deploying the components and containers in production environments without scanning and hardening. We also guarantee no support around the code or images provided beyond their specific course purpose. 
